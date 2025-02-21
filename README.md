@@ -1,6 +1,6 @@
 # Slider
 
-![Image](https://github.com/user-attachments/assets/3cb45fa0-1e0c-4e99-bbfe-da027c819a13)
+![Image](https://github.com/user-attachments/assets/7395156e-5cf3-48cb-8d13-bd31e6eb337e)
  
 - [Demo Project](https://nastaranghorbanpour.github.io/personal-portfolio/)
 - Developed by Nastaran Ghorbanpour
