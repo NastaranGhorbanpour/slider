@@ -5,7 +5,7 @@
 - [Demo Project](https://nastaranghorbanpour.github.io/personal-portfolio/)
 - Developed by Nastaran Ghorbanpour
 - Created - 2025-02-21
-- Technologies Used : Html , css 
+- Technologies Used : Html , Css 
 - How to reach me : with my 
 [instagram](https://www.instagram.com/nestacode.lab/) and 
 [linkedin](https://www.linkedin.com/in/nastaran-ghorbanpour-027a7b349/)
